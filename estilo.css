@@ -5,3 +5,48 @@ body {
 h1{
   text-align: center;
 }
+ caixa1 {
+   position: absolute;
+   background-attachment: grey
+   width: 200px;
+   height: 200px;
+   left: 78%
+   right: 0%
+   bottom:
+ }
+ caixa2 {
+   position: absolute;
+   background-attachment: blue 
+   width: 200px;
+   height: 200px;
+   left: 78%
+   right: 0
+   bottom:12
+ }
+ .menupricipal{
+   position: absolute;
+   width: ;
+   background: ;
+   top: 0%;
+ }
+ nav ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: 0;
+ }
+ li{
+   float: left;
+ }
+ li a{
+   display: block;
+  color: aquamarine;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  }
+li a:hover{
+  color: aqua;
+  background: black;
+}
