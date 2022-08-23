@@ -55,7 +55,7 @@ li a:hover{
 #tigre{
   width: 12%;
 }
-.caixaTigre{
+.caixalivros{
   position: absolute;
   top: 45px;
   background: white;
@@ -69,7 +69,7 @@ li a:hover{
   display: flex;
   justify-content: center;
 }
-.caixaTigre2{
+.caixalivros2{
   position: absolute;
   top: 0px;
   right: 0%;
